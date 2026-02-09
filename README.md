@@ -23,13 +23,6 @@ https://heranmoh.github.io/elegant-essentials/
 
 This website is deployed using **GitHub Pages**.
 
-To deploy:
-1. Go to Repository Settings
-2. Open Pages
-3. Select `main` branch
-4. Choose `/root` folder
-5. Save and wait for the live link
-
 ## 🛠️ Built With
 
 - HTML5
